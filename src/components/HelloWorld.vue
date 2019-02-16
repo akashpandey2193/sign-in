@@ -1,13 +1,13 @@
 <template>
   <div class="hello">
-    <div class="btn">
+    <div class="btn g-signin2">
       <img src="@/assets/search.svg" alt="google"/>
       <span>Login with Google</span> 
     </div>
     <div class="btn">
       <img src="@/assets/facebook.svg" alt="google"/>
       <span>Login with Facebook</span> 
-    </div>   
+    </div>  
   </div>
 </template>
 
